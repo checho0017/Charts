@@ -91,4 +91,4 @@ volumeMounts: []
 nodeSelector: {}
 tolerations: []
 affinity: {}
-versionImage: sergio0017/api-bff-nestjs:aa71de337a124b939303049a305eaa59ecf0ebe2
+versionImage: sergio0017/api-bff-nestjs:4688a7bc48bb56040ac38ae99a27760994f592e4
