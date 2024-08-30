@@ -9,6 +9,6 @@ entries:
     name: apichart
     type: application
     urls:
-    - https://checho0017.github.io/Charts/charts/apichart-0.1.4.tgz
+    - https://checho0017.github.io/Charts/charts/apichart-0.1.5.tgz
     version: 0.1.5
 generated: "2024-08-29T21:34:29.909592-05:00"
