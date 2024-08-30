@@ -5,12 +5,13 @@
 replicaCount: 1
 cpu: "100m"
 memory: "500Mi"
+version: sergio0017/api-bff-nestjs:1.1.2
 
 image:
   repository: nginx
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: sergio0017/api:1.0.0
+  tag: stable
 
 imagePullSecrets: []
 nameOverride: ""
