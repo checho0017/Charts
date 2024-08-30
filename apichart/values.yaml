@@ -5,7 +5,7 @@
 replicaCount: 1
 cpu: "100m"
 memory: "500Mi"
-version: sergio0017/api-bff-nestjs:1.1.2
+versionImage: sergio0017/api-bff-nestjs:1.1.2
 name: "apichart"
 image:
   repository: nginx

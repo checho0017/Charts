@@ -3,12 +3,12 @@ entries:
   apichart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-29T20:40:27.967521-05:00"
+    created: "2024-08-29T21:34:29.911131-05:00"
     description: A Helm chart for Kubernetes
     digest: f6e6815cabf61987ba5dff5a1714ecf54645f128bc21b74bb96d474223540003
     name: apichart
     type: application
     urls:
-    - charts/apichart-0.1.2.tgz
+    - https://checho0017.github.io/Charts/charts/apichart-0.1.2.tgz
     version: 0.1.2
-generated: "2024-08-29T20:40:27.962592-05:00"
+generated: "2024-08-29T21:34:29.909592-05:00"
