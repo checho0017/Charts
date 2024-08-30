@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: {{ .Values.name  }}
-          image: "{{ .Values.version | default .Chart.AppVersion }}"
+          image: {{ .Values.version  }}
           ports:
             - containerPort: {{ .Values.service.targetPort }}
           resources:
